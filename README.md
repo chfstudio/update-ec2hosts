@@ -6,7 +6,7 @@ It uses the "Name" tag into AMI to get all meta data.
 ##Remember
 Set valid and unique tag name into EC2 Management Console for every Instance.
 
-##Install:
+##Install
 
 * Insert your **AWS_ACCESS_KEY_ID**, **AWS_SECRET_ACCESS_KEY** and your current **AWS_REGION**. [https://portal.aws.amazon.com/gp/aws/securityCredentials]
 * Copy the script into **/usr/local/bin/update-hosts.py** 
