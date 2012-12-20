@@ -4,6 +4,7 @@ It uses the "Name" tag into AMI to get all meta data.
 Remember: set valid and unique tag name into EC2 Management Console for every Instance.
 
 To install:
+
 1) Insert your AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY and your current AWS_REGION. [https://portal.aws.amazon.com/gp/aws/securityCredentials]
 2) copy the script into /usr/local/bin/update-hosts.py 
 3) insert crontab rule (as root user) like: 
@@ -25,4 +26,5 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
 
