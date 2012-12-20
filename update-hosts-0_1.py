@@ -83,3 +83,4 @@ for i in range(0,len(hosts)):
 tmp.close()	   
 								
 shutil.copy2('/tmp/htmp','/etc/hosts')
+
