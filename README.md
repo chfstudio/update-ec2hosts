@@ -15,7 +15,7 @@ Set valid and unique tag name into EC2 Management Console for every Instance.
  * * * * * /usr/local/bin/update-hosts.py > /dev/null 2>&1 
 ```
 
-* Cet execution permission: chmod +x /usr/local/bin/update-hosts.py .
+* Set execution permission: chmod +x /usr/local/bin/update-hosts.py .
 * Check your updated /etc/hosts file .
 * Repeat for all Instances .
 
