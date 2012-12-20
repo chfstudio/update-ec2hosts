@@ -7,13 +7,12 @@ To install:
 1) Insert your AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY and your current AWS_REGION. [https://portal.aws.amazon.com/gp/aws/securityCredentials]
 2) copy the script into /usr/local/bin/update-hosts.py 
 3) insert crontab rule (as root user) like: 
-# m h  dom mon dow   command
-* * * * * /usr/local/bin/update-hosts.py > /dev/null 2>&1
+* * * * * * /usr/local/bin/update-hosts.py > /dev/null 2>&1
 4) set execution permission: chmod +x /usr/local/bin/update-hosts.py 
 5) Check your updated /etc/hosts file
 6) Repeat for all Instances
 
-Copyright (c) 2012 Mochunk srl <support@mochunk.com>
+Copyright (c) 2012 Mochunk srl [http://www.mochunk.com] <support@mochunk.com>
 
 Permission to use, copy, modify, and distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
