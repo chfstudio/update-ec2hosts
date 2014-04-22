@@ -17,7 +17,7 @@ To install:
 """
 
 __license__ = """\
-Copyright (c) 2012 Mochunk srl <support@mochunk.com>
+Copyright (c) Christian Ferranti [http://www.chfstudio.com] <info@chfstudio.com>
 
 Permission to use, copy, modify, and distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
