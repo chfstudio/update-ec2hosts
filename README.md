@@ -20,7 +20,7 @@ Set valid and unique tag name into EC2 Management Console for every Instance.
 * Repeat for all Instances .
 
 
-Copyright (c) 2012 Mochunk srl [http://www.mochunk.com] <support@mochunk.com>
+Copyright (c) 2012 Christian Ferranti [http://www.chfstudio.com] <info@chfstudio.com>
 
 Permission to use, copy, modify, and distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
